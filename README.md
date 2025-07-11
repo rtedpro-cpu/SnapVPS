@@ -4,4 +4,4 @@
 - [Troubleshooting](#troubleshooting)
 
 ## Overview
-*SnapVPS* is a discord bot for creating VPSes based on ![Incus](https://linuxcontainers.org/incus/)
+*SnapVPS* is a discord bot for creating VPSes based on [Incus](https://linuxcontainers.org/incus/)
